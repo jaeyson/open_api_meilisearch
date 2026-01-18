@@ -1,6 +1,8 @@
 # OpenApiMeilisearch
 
-**TODO: Add description**
+**TODO:** This library is still **parked** and I'll add the features soon. Hang tight!
+
+**Note**: the only place where ai is used/integrated is in PR reviews. I am NOT interested in adding/integrating ai generated code in my codebase, as this little library can be fit in my mental model. ai has it’s own great use case, it’s just that I wanted to be hands-on with these projects.
 
 ## Installation
 
